@@ -12,7 +12,7 @@ public static void main(String[] args) {
 // Qua inizia il nostro Ciclo che chiede numeri positivi e interi 
  while (numero>=0) {
 
-    System.out.println("Inserisci un Numero intero e positivo ");
+    System.out.println("Inserisci un numero intero e positivo ");
      numero =scannernum.nextInt();
     
 
