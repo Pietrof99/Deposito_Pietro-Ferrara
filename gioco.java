@@ -78,6 +78,7 @@ public class gioco {
  
   sceltaFinale=scanner.nextLine();
   tentativi=0;
+     // Ti da la possibilità di uscire o rifare il gioco
  } while (sceltaFinale.equals("si"));
  
  System.out.println("Fine");
